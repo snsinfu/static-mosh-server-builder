@@ -5,6 +5,7 @@ Clone this repository and type `make` to build a statically linked
 
 ```
 $ git clone https://github.com/snsinfu/static-mosh-server-builder
+$ cd static-mosh-server-builder
 $ make
 $ ls out
 mosh-server
